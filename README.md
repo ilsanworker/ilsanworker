@@ -1,4 +1,4 @@
-<img src="이미지URL" width="100%" style="aspect-ratio: 16 / 9; object-fit: cover;" />
+<img src="image.png" width="100%" style="aspect-ratio: 16 / 9; object-fit: cover;" />
 <!--
 **ilsanworker/ilsanworker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
